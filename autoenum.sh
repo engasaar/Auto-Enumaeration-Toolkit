@@ -21,8 +21,6 @@ echo "* services in your hosts and list the directories   *"
 echo "* in your web services                              *"
 echo "* Coded by Ahmed Samir                              *"
 echo "* Cyber Security Trainee                            *"
-echo "* eng.asaar2008@gmail.com                           *"
-echo "* Tel +201148444485                                 *"
 echo "* Supervised by Sameh El-Hakim                      *"
 echo "*****************************************************"
 
